@@ -4,7 +4,7 @@ Hi! Welcome to a version of my portfolio! I'm currently in the mist of preparing
 
 Finally, you may have noticed a gap in activity inside my personal GitHub profile. For my previous job, I put more effort in projects housed in GitHub and continued support of team efforts and explorations using those accounts. Other previous position also protected their data assets so I'm unable to showcase those projects.
 
-For now, I list out all the concepts, topics, and projects I contributed or explored:
+For now, I list out some of the concepts, topics, and projects I contributed or explored:
 
 - Data modeling 
 - Data cataloging
