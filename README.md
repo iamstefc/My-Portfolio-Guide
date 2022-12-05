@@ -6,22 +6,19 @@ Finally, you may have noticed a gap in activity inside my personal GitHub profil
 
 For now, I list out all the concepts, topics, and projects I contributed or explored:
 
-Data modeling 
-Data cataloging
-Metadata
-Strategize data migration and infrastructure transition
-Moving away from ETL to ELT
-Getting stakeholder buy-in for adopting data cataloging tools
-Organizing dbt Project: Where we failed and how we succeeded
-Combining Inmon with Kimball in dbt
-Data warehouse
-dbt exploring SCD Type 2 manual implementation vs snapshots
-dbt - models, macros (JINJA), snapshots
-dbt Cloud vs dbt Core: Which should your team use for onboarding
-Data visualization tools
-Exploring the data maturity ladder
-My take on Power BI vs Mode
-
-
-
-All tools I have used in my career, I have listed them on the main page of my github
+- Data modeling 
+- Data cataloging
+- Metadata
+- Strategize data migration and infrastructure transition
+- Moving away from ETL to ELT
+- Getting stakeholder buy-in for adopting data cataloging tools
+- Organizing dbt Project: Where we failed and how we succeeded
+- Combining Inmon with Kimball in dbt
+- Data warehouse
+- dbt exploring SCD Type 2 manual implementation vs snapshots
+- dbt - models, macros (JINJA), snapshots
+- dbt Cloud vs dbt Core: Which should your team use for onboarding
+- Data visualization tools
+- Exploring the data maturity ladder
+- My take on Power BI vs Mode
+- All tools I have used in my career, I have listed them on the main page of my github
