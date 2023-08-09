@@ -2,7 +2,7 @@
 
 Hi! Welcome to a version of my portfolio! I'm currently in the mist of preparing a blog site which will include an organized list of concepts and tools I used during my data career, as well as projects which I have contributed while at startups. I will dive into greater detail when the blog rolls out, but its going to be made for the purpose of tracking the growth of my career and hopefully it'll help aspiring data enthusiasts like myself to pursue a career in data, whether it be BI Analyst, Data Analyst, Analytics Engineering, or Analytics Manager. More to come in the near future!
 
-Finally, you may have noticed a gap in activity inside my personal GitHub profile. For my previous job, I put more effort in projects housed in GitHub and continued support of team efforts and explorations using those accounts. Other previous position also protected their data assets so I'm unable to showcase those projects.
+Finally, you may have noticed a gap in activity inside my personal GitHub profile. For my previous job, I put more effort in projects housed in GitHub and continued support of team efforts and explorations using those accounts. Other previous position also protected their data assets so I'm unable to showcase those projects. Some activity will not show history due to it being in private proprietary info 
 
 For now, I list out some of the concepts, topics, and projects I contributed or explored:
 
